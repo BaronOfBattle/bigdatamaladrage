@@ -1,10 +1,16 @@
 **EQUIPE**
 Davi Barros
+
 Fernando Leite
+
 Gabriel Felipe
+
 Gabriel Santana
+
 George Souza
+
 Mylene Cavalcanti
+
 Ruan Lima
 
 **Estrutura de Diretórios**
