@@ -1,4 +1,4 @@
-##Estrutura de Diretórios
+#Estrutura de Diretórios
 
 
 data/: Diretório para armazenamento dos arquivos CSV de entrada.
