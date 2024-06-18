@@ -14,15 +14,6 @@ Mylene Cavalcanti
 
 Ruan Lima
 
-**Estrutura de Diretórios**
-
-
-data/: Diretório para armazenamento dos arquivos CSV de entrada.
-
-scripts/: Scripts Python para execução da análise de dados.
-
-README.md: Este arquivo de documentação com informações sobre o projeto.
-
 
 **Funcionalidades**
 
